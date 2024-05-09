@@ -1,5 +1,5 @@
-# Documentation
+# Running React inside of Angular
 
-Details here [https://darklimeteam.com/articles/blog/angular-react-vue-2023
+Followed this article [https://darklimeteam.com/articles/blog/angular-react-vue-2023
 ](https://darklimeteam.com/articles/blog/angular-react-vue-2023).
 
